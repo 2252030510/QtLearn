@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_homework",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_homework::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_homework-Release-d308c74b193b30c4b669.json",
+					"name" : "01_homework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_homework_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_homework_autogen-Release-a11e3ad4ffde42e26bb2.json",
+					"name" : "01_homework_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/zm/QTcoding/01progrct/build-01_homework-Desktop_Qt_5_14_2_MinGW_64_bit-Release",
+		"source" : "D:/zm/QTcoding/01progrct/01_homework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_UseTheUI",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_UseTheUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_UseTheUI-Debug-d030ba1552acab2a9343.json",
+					"name" : "05_UseTheUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05_UseTheUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_UseTheUI_autogen-Debug-36c4707cb5ac3c370f76.json",
+					"name" : "05_UseTheUI_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/zm/QTcoding/01progrct/build-05_UseTheUI-Desktop_Qt_5_14_2_MinGW_64_bit-Debug",
+		"source" : "D:/zm/QTcoding/01progrct/05_UseTheUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
