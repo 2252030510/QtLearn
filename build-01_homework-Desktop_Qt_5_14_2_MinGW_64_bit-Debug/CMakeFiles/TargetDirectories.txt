@@ -1,4 +1,0 @@
-D:/zm/QTcoding/01progrct/build-01_homework-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/01_homework.dir
-D:/zm/QTcoding/01progrct/build-01_homework-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/zm/QTcoding/01progrct/build-01_homework-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/zm/QTcoding/01progrct/build-01_homework-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/01_homework_autogen.dir

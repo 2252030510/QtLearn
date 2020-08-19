@@ -1,3 +1,0 @@
-C:\CMake\bin\cmake.exe -E remove -f CMakeFiles\01_homework.dir/objects.a
-D:\Qt\Qt5.14.2\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\01_homework.dir/objects.a @CMakeFiles\01_homework.dir\objects1.rsp
-D:\Qt\Qt5.14.2\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\01_homework.dir/objects.a -Wl,--no-whole-archive  -o 01_homework.exe -Wl,--out-implib,lib01_homework.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\01_homework.dir\linklibs.rsp
